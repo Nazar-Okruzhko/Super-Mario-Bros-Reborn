@@ -57,7 +57,7 @@ BLOCK_BUMP_TIME = 10
 DEATH_ANIMATION_TIME = 2 * FPS
 STOMP_BOUNCE_VELOCITY = -4.0
 
-# Colors (fallback when textures not available)
+# Colors (fallback)
 COLOR_SKY = (92, 148, 252)
 COLOR_GROUND = (0, 168, 0)
 COLOR_BRICK = (184, 0, 0)
