@@ -1,2 +1,2 @@
-<img width="1935" height="223" alt="image" src="https://github.com/user-attachments/assets/e738a2ef-54e3-4249-8661-4332c6521615" />
+<img width="1594" height="288" alt="image" src="https://github.com/user-attachments/assets/6a7e7278-73c1-4147-b60f-be6af9e05b41" />
 Super Mario Bros - Reborn, is basically a reboot of the original Super Mario bros from late 80's...
